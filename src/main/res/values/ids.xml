@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_copy" type="id">Text copied to clipboard.</item>
+    <item name="text_copy_fail" type="id">No text to copy</item>
+</resources>
